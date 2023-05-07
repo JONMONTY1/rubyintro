@@ -6,11 +6,21 @@
 
 # Numbers
 
+puts 5
+puts 2
+
 # Perform simple math with numbers
+
+puts 2 + 5
+puts 2 - 5
 
 # Strings
 
+puts "Hello, world!"
+
 # Combine strings together
+
+puts "ruby is " + "fun!"
 
 # Variables
 
